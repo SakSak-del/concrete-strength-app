@@ -1,0 +1,16 @@
+{
+  "r2": 0.8956286414866325,
+  "rmse": 5.185950975684273,
+  "n_rows": 1030,
+  "n_features": 8,
+  "features": [
+    "cement",
+    "slag",
+    "ash",
+    "water",
+    "superplastic",
+    "coarseagg",
+    "fineagg",
+    "age"
+  ]
+}
